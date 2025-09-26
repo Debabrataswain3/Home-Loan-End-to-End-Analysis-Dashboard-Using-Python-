@@ -36,7 +36,7 @@ The objective of this project is to analyze home loan applications, identify key
 
 ## 📈 Dashboard Link
 
-👉 [View Dashboard]([https://your-dashboard-link.com](https://github.com/Debabrataswain3/Home-Loan-End-to-End-Analysis-Dashboard-Using-Python-/blob/main/home_loan.png))
+👉 [View Dashboard](<img width="1321" height="742" alt="Screenshot 2025-09-24 101943" src="https://github.com/user-attachments/assets/b302cfb4-e5e4-433e-a699-cf23a999a237" />
 
 ---
 
@@ -52,7 +52,3 @@ The objective of this project is to analyze home loan applications, identify key
 ## ✅ Final Conclusion
 
 The project highlights the importance of **credit history, income, and employment type** in determining loan approvals. The dashboard provides a user-friendly way to analyze these factors, helping lenders and policymakers make **data-driven lending decisions**.
-
----
-
-Would you like me to also format this README with **badges (Python, Streamlit, Kaggle, etc.)** and a **table of contents** for a more professional GitHub appearance?
