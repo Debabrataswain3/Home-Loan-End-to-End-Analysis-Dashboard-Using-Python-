@@ -36,8 +36,7 @@ The objective of this project is to analyze home loan applications, identify key
 
 ## 📈 Dashboard Link
 
-👉 [View Dashboard](<img width="1327" height="737" alt="Screenshot 2025-09-24 101921" src="https://github.com/user-attachments/assets/6e7906ce-60e1-4d9d-973e-888be282f4cc" />
-
+👉 [View Dashboard](<img width="1200" height="800" alt="home_loan" src="https://github.com/user-attachments/assets/51bc2c3f-b9c1-4762-9806-76e2ea884562" />
 )
 
 ---
