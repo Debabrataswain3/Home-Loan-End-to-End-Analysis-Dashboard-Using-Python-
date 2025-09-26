@@ -36,8 +36,8 @@ The objective of this project is to analyze home loan applications, identify key
 
 ## 📈 Dashboard Link
 
-👉 [View Dashboard](<img width="1327" height="737" alt="Screenshot 2025-09-24 101921" src="https://github.com/user-attachments/assets/e2ddb727-bf18-4d29-945d-c5e9a1495173" />)
-
+👉 [View Dashboard](<img width="1327" height="737" alt="Screenshot 2025-09-24 101921" src="https://github.com/user-attachments/assets/e0151d5a-ac27-43f3-96f3-5a41546c7ff2" />
+)
 
 ---
 
@@ -53,3 +53,5 @@ The objective of this project is to analyze home loan applications, identify key
 ## ✅ Final Conclusion
 
 The project highlights the importance of **credit history, income, and employment type** in determining loan approvals. The dashboard provides a user-friendly way to analyze these factors, helping lenders and policymakers make **data-driven lending decisions**.
+
+
